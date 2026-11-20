@@ -3,7 +3,7 @@ def berechne_leistung(spannung, strom):
 
 
 spannung = 230
-strom = 5
+strom = 17
 
 leistung = berechne_leistung(spannung, strom)
 
